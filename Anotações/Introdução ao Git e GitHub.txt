@@ -1,0 +1,6 @@
+Links úteis:
+
+Como baixar o Git -> https://git-scm.com/downloads
+Como baixar GitHub -> https://desktop.github.com
+
+Downloads do Git e GitHub em várias versões

@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+    font-size: 22px;
+    color: green;
+}
+
+.teste {
+    color: rgb(17, 13, 2);
+}
